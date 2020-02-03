@@ -1,4 +1,4 @@
-package markdown
+package mgodown
 
 import (
 	"bytes"
@@ -6,9 +6,9 @@ import (
 	"io"
 	"regexp"
 
-	"github.com/gomarkdown/markdown/ast"
-	"github.com/gomarkdown/markdown/html"
-	"github.com/gomarkdown/markdown/parser"
+	"github.com/Feemic/mgodown/ast"
+	"github.com/Feemic/mgodown/html"
+	"github.com/Feemic/mgodown/parser"
 )
 
 // Renderer is an interface for implementing custom renderers.

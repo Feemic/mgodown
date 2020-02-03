@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/gomarkdown/markdown/ast"
+	"github.com/Feemic/mgodown/ast"
 )
 
 // Renderer renders to markdown. Allows to convert to a canonnical

@@ -1,7 +1,7 @@
-checkoutLocation: "src/github.com/gomarkdown/markdown"
+checkoutLocation: "src/github.com/Feemic/mgodown"
 workspaceLocation: "."
 tasks:
   - command: >
-      cd /workspace/src/github.com/gomarkdown/markdown &&
+      cd /workspace/src/github.com/Feemic/mgodown &&
       go get -v ./... &&
       go test -c

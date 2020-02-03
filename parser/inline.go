@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/gomarkdown/markdown/ast"
+	"github.com/Feemic/mgodown/ast"
 )
 
 // Parsing of inline elements

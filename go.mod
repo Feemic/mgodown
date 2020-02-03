@@ -1,4 +1,4 @@
-module github.com/gomarkdown/markdown
+module github.com/Feemic/mgodown
 
 go 1.12
 

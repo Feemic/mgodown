@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"unicode"
 
-	"github.com/gomarkdown/markdown/ast"
+	"github.com/Feemic/mgodown/ast"
 )
 
 // Parsing block-level elements.

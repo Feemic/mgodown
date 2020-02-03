@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/gomarkdown/markdown"
-	"github.com/gomarkdown/markdown/ast"
-	"github.com/gomarkdown/markdown/parser"
+	"github.com/Feemic/mgodown"
+	"github.com/Feemic/mgodown/ast"
+	"github.com/Feemic/mgodown/parser"
 )
 
 // This prints AST of parsed markdown document.
