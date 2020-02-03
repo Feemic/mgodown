@@ -32,4 +32,4 @@ You can customize parser and HTML renderer:
 
 For a cmd-line tool see https://github.com/gomarkdown/mdtohtml
 */
-package markdown
+package mgodown

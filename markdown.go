@@ -156,8 +156,8 @@ func ToHTML(markdown []byte, p *parser.Parser, renderer Renderer) ([]byte, []byt
 		}
 		renderer = html.NewRenderer(opts)
 	}
-	heading := HeaderToHtml(markdown, doc, renderer)
 
+	heading := HeaderToHtml(markdown, doc, renderer)
 	return heading, Render(doc, renderer)
 }
 
