@@ -34,7 +34,7 @@ Default option:no empty line before block are supported
 Tables: tables are supported if there are spaces in the table header  
 MathJaX:  
 add display math block  
-```math
+> ```math
 n \geq 2^{\frac {h} {2}} - 1
 ```
 ...
