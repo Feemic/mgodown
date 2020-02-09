@@ -35,9 +35,10 @@ Tables: tables are supported if there are spaces in the table header
 MathJaX:  
 add display math block  
 
-> 
+```
 ```math
 n \geq 2^{\frac {h} {2}} - 1
+```
 ```
 
 ## History
